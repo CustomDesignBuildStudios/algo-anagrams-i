@@ -1,0 +1,16 @@
+{
+  "name": "algo-anagrams-i",
+  "version": "1.0.0",
+  "description": "",
+  "main": "characterMatch.js",
+  "scripts": {
+    "start": "node characterMatch.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Michael Termotto",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.4"
+  }
+}
